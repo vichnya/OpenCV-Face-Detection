@@ -19,11 +19,11 @@
 
 ### Обнаружение лица с камеры
 
-![Branching](https://github.com/vichnya/PROG6/blob/main/%D0%9B%D0%A08/images/%D0%A41.png)
+![Результат работы с камерой](images/Ф1.png)
 
 ### Обнаружение лица на изображении
 
-![Branching](https://github.com/vichnya/PROG6/blob/main/%D0%9B%D0%A08/images/%D0%A0%D0%B8%D1%81%201(1).png)
+![Результат работы с изображением](images/Рис%201(1).png)
 
 ## Что реализовано
 
